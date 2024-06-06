@@ -23,7 +23,7 @@ Use the GUI to:
     - Save the cartoonized image using the "Save Cartoon Image" button.
 
 ## File Structure
-- `image_converter_cartoonizer.py`: Main script to run the application.
+- `IMAGE_CONVERT_TO.ipynb`: Main script to run the application.
 - `pexels-free-jpg-206430-639024.jpg`: Sample image used for initial demonstration (replace with your own images as needed).
 
 ## Functions
